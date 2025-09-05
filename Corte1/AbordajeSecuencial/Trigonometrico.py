@@ -1,0 +1,12 @@
+import math
+print("")
+radians = float(input("ingrese valor de radianes: "))
+print("")
+proyeccion = math.sin(radians)
+print("seno radianes=", proyeccion)
+print("")
+print("radianes=", radians)
+print("")
+grados = math.degrees(radians)
+print("grados=", grados)
+print("")
