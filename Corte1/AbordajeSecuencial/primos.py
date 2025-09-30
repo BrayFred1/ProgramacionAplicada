@@ -17,4 +17,6 @@ while True:
             print("Ingrese un número válido")
       except KeyboardInterrupt:
             print("Adiós <3")
+
             break
+                 
